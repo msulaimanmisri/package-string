@@ -2,11 +2,13 @@
     "name": "sulaimanmisri/php-string-convert",
     "description": "A simple PHP Package to simplified the String conversion by using Bahasa",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/App"
         }
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Sulaiman Misri",
