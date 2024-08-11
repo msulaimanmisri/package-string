@@ -15,7 +15,5 @@
             "homepage": "https://sulaimanmisri.com"
         }
     ],
-    "require": {
-        "php": "^7.4"
-    }
+    "require": {}
 }
