@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "App\\": "src/App"
+            "SulaimanMisri\\": "src/"
         }
     },
     "minimum-stability": "stable",
@@ -15,7 +15,5 @@
             "homepage": "https://sulaimanmisri.com"
         }
     ],
-    "require": {
-        "php": "^7.4"
-    }
+    "require": {}
 }
