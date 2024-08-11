@@ -1,5 +1,5 @@
 {
-    "name": "sulaiman/php-string-convert",
+    "name": "sulaimanmisri/php-string-convert",
     "description": "A simple PHP Package to simplified the String conversion by using Bahasa",
     "type": "library",
     "autoload": {
@@ -9,8 +9,11 @@
     },
     "authors": [
         {
-            "name": "Sulaiman Misri"
+            "name": "Sulaiman Misri",
+            "homepage": "https://sulaimanmisri.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
